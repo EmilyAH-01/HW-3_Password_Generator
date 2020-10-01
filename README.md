@@ -8,9 +8,9 @@ Emily Herman
 CONTENTS:
 
 index.html
-script.js
-style.css
-\Assets\password_generator_UI.jpg
+| script.js
+| style.css
+| Assets\password_generator_UI.png
 
 
 DESCRIPTION:
