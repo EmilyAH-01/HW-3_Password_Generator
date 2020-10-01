@@ -10,6 +10,7 @@ CONTENTS:
 index.html
 script.js
 style.css
+\Assets\password_generator_UI.jpg
 
 
 DESCRIPTION:
@@ -20,3 +21,7 @@ index.html and style.css were provided for this exercise and have not been modif
 
 DEPLOYED APPLICATION:
 https://emilyah-01.github.io/HW-3_Password_Generator/
+
+USER INTERFACE SCREENSHOT: See Assets folder.
+
+
