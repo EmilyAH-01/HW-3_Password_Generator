@@ -1,4 +1,4 @@
-# HW-3_Password_Generator
+# Password_Generator
 
 Emily Herman 
 | MSU Coding Bootcamp Homework 3 
