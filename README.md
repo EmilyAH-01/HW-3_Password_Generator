@@ -1,4 +1,4 @@
-# Password-Generator
+# password-generator
 
 SUMMARY:
 script.js generates a random password based on the user's answers to a series of prompts, which ask for desired password length and types of characters to use.
