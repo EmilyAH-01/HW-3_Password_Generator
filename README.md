@@ -9,4 +9,4 @@ index.html and style.css were provided for this exercise and have not been modif
 INSTALLATION AND USAGE:
 
 DEPLOYED APPLICATION:
-https://emilyah-01.github.io/Password-Generator/
+https://emilyah-01.github.io/password-generator/
