@@ -1,9 +1,6 @@
-// script.js: Password Generator functionality
-// Emily Herman, HW 3, 10/1/2020 
-
-// Starter code was provided; I wrote the generatePassword function and 
-// modified the starter code as necessary.
-
+// Emily Herman
+// JavaScript for password generator app
+// Starter code provided by MSU Coding Bootcamp; I contributed the generatePassword() function
 
 // Select the ID for the "Generate Password" button for later use
 var generateBtn = document.querySelector("#generate");
