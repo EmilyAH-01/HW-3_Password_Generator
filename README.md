@@ -16,8 +16,7 @@ To run this code on your own machine, enter the following in your command line:
 Navigate into your cloned project directory and open index.html in a browser. Click the "Generate Password" button and follow the prompts to generate a random password and display it on the page. 
 
 ## Deployed Application
-<a href="https://emilyah-01.github.io/password-generator/" target="_blank">https://emilyah-01.github.io/password-generator</a>
-
+https://emilyah-01.github.io/password-generator/
 
 ## Future Development
 1. Convert user prompts to checkboxes displayed on the page.
