@@ -9,6 +9,7 @@ This app runs in a browser, is mobile-responsive, and uses JavaScript to dynamic
 
 ## Installation
 To run this code on your own machine, enter the following in your command line:
+
 `git clone https://github.com/EmilyAH-01/password-generator.git`
 
 ## Usage
